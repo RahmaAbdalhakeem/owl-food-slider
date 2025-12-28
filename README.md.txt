@@ -10,4 +10,5 @@ Responsive food card slider with interactive buttons using HTML, CSS & JavaScrip
 
 Arabic:
 
- سلايدر كروت الطعام متجاوب بأزرار تفاعلية باستخدام HTML وCSS وJavaScript.
+ سلايدر كروت الطعام متجاوب بأزرار تفاعلية باستخدام 
+ HTML وCSS وJavaScript.
