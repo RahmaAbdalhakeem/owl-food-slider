@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=F08080&center=true&width=600&lines=Food+Card+Slider;Responsive+UI;HTML+%26+CSS+%26+JS">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=F08080&center=true&width=600&lines=Food+Card+Slider">
 </div>
 
 ---
