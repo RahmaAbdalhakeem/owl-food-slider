@@ -9,6 +9,12 @@
 Responsive food card slider with interactive buttons using **HTML, CSS & JavaScript**.  
 
 سلايدر كروت الطعام متجاوب بأزرار تفاعلية باستخدام **HTML وCSS وJavaScript**
+---
+
+### 🌀 Libraries Used
+- **Wheel Carousel**: smooth sliding for cards | حركة سلايدر سلسة
+- **Font Awesome**: icons for buttons | أيقونات للأزرار
+- **Google Fonts**: custom fonts | خطوط مخصصة
 
 ---
 
