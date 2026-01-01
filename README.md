@@ -26,12 +26,6 @@ Responsive food card slider with interactive buttons using **HTML, CSS & JavaScr
 سهل التعديل والتخصيص
 ---
 
-## 🔗 Live Demo
-Try it in your browser:  
-[🌐 Food Card Slider](https://rahmaabdalhakeem.github.io/Personal-Portfolio/)
-
----
-
 ## ⭐ Support
 If you like this project, give it a ⭐ on GitHub!  
 [![GitHub stars](https://img.shields.io/github/stars/RahmaAbdalhakeem/Personal-Portfolio?style=social)](https://github.com/RahmaAbdalhakeem/Personal-Portfolio/stargazers)
